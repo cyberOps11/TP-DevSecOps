@@ -1,5 +1,5 @@
-URL Vercel : https://tp-dev-sec-ops-kappa.vercel.app/
-rapport.html : https://github.com/cyberOps11/TP-DevSecOps/blob/main/rapport.html
+URL Vercel : https://tp-dev-sec-ops-kappa.vercel.app/   
+lien vers le fichier rapport.html : https://github.com/cyberOps11/TP-DevSecOps/blob/main/rapport.html
 
 
 ![image](https://github.com/user-attachments/assets/00102ff6-c9a7-4c35-bd98-af3c976b4305)
